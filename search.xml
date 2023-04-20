@@ -1,128 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Samsung-Tab-S7第二屏幕无法使用问题解决</title>
-    <url>/2023/04/20/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</url>
-    <content><![CDATA[<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../images/head/WELCOME2.gif"
-                      alt="head"
-                ></p>
-<h3 id="Reddit上网友的解决办法"><a href="#Reddit上网友的解决办法" class="headerlink" title="Reddit上网友的解决办法"></a>Reddit上网友的解决办法</h3><p><a class="link"   href="https://www.reddit.com/user/Dyzaldaniels/comments/ns3l56/connecting_to_samsung_galaxy_tab_s7_second_screen/" >Connecting to Samsung Galaxy Tab S7 Second Screen : Dyzaldaniels (reddit.com) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Samsung-社区的解决办法"><a href="#Samsung-社区的解决办法" class="headerlink" title="Samsung 社区的解决办法"></a>Samsung 社区的解决办法</h3><p><a class="link"   href="https://eu.community.samsung.com/t5/tablets/second-screen-doesn-t-work-on-galaxy-tab-s8-ultra-5g/td-p/5492489/page/2#:~:text=Swipe%20from%20the%20top%20of%20the%20Tab%20S8,your%20PC%2C%20press%20the%20Windows%20key%20Regards%2C%20Will" >Second screen doesn’t work on Galaxy Tab S8 Ultra 5G - Page 2 - Samsung Community <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+    <title>Samsung-Tab-S7无法使用使用第二屏幕问题</title>
+    <url>/2023/04/20/Samsung-Tab-s7/</url>
+    <content><![CDATA[<p><img src="/2023/04/20/Samsung-Tab-s7/WELCOME2.gif" alt="head"></p>
+<h3 id="Reddit上网友的解决办法"><a href="#Reddit上网友的解决办法" class="headerlink" title="Reddit上网友的解决办法"></a>Reddit上网友的解决办法</h3><p><a class="link" href="https://www.reddit.com/user/Dyzaldaniels/comments/ns3l56/connecting_to_samsung_galaxy_tab_s7_second_screen/">Connecting to Samsung Galaxy Tab S7 Second Screen : Dyzaldaniels (reddit.com) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Samsung-社区的解决办法"><a href="#Samsung-社区的解决办法" class="headerlink" title="Samsung 社区的解决办法"></a>Samsung 社区的解决办法</h3><p><a class="link" href="https://eu.community.samsung.com/t5/tablets/second-screen-doesn-t-work-on-galaxy-tab-s8-ultra-5g/td-p/5492489/page/2#:~:text=Swipe%20from%20the%20top%20of%20the%20Tab%20S8,your%20PC%2C%20press%20the%20Windows%20key%20Regards%2C%20Will">Second screen doesn’t work on Galaxy Tab S8 Ultra 5G - Page 2 - Samsung Community <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 <p>大家可以看一看，本文基本就是上述两个文件的思路。</p>
 <h2 id="第一部分，检查"><a href="#第一部分，检查" class="headerlink" title="第一部分，检查"></a>第一部分，检查</h2><p>我们需要确定是平板问题还是电脑问题，有三星手机的朋友们可以很快速的检查，就是把三星手机变为第二屏幕，检查与电脑连接是否正常。但这也不是绝对，像我电脑和手机就可以链接，但是与平板就不行，让我一度以为是平板坏了。</p>
 <p>如果可以正常连接，可以确定电脑硬件啥的都没问题，然后看电脑在投放页面是否可以检查到tab的信息，如果可以检查到。就可以进行下一步了。</p>
 <h2 id="第二部分，开始解决"><a href="#第二部分，开始解决" class="headerlink" title="第二部分，开始解决"></a>第二部分，开始解决</h2><p>我看了社区和知乎，百度以及外网的问题，都是连接上了之后黑屏退出，这就是问题根源</p>
-<h3 id="方法一-关闭防火墙试一试"><a href="#方法一-关闭防火墙试一试" class="headerlink" title="方法一:关闭防火墙试一试"></a>方法一:关闭防火墙试一试</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/1.webp"
-                      alt="1"
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/2.webp"
-                      alt="2"
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/3.webp"
-                      alt="3"
-                ></p>
+<h3 id="方法一-关闭防火墙试一试"><a href="#方法一-关闭防火墙试一试" class="headerlink" title="方法一:关闭防火墙试一试"></a>方法一:关闭防火墙试一试</h3><p><img src="/2023/04/20/Samsung-Tab-s7/1.jpg" alt="1"><br><img src="/2023/04/20/Samsung-Tab-s7/2.jpg" alt="2"><br><img src="/2023/04/20/Samsung-Tab-s7/3.jpg" alt="3"></p>
 <p>一部分外国网友关闭防火墙之后大约十分钟，再次连接就可以链接了，大家可以试一试。</p>
-<h3 id="方法二-打开设备管理器"><a href="#方法二-打开设备管理器" class="headerlink" title="方法二:打开设备管理器"></a>方法二:打开设备管理器</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/4.webp"
-                      alt="4"
-                ></p>
+<h3 id="方法二-打开设备管理器"><a href="#方法二-打开设备管理器" class="headerlink" title="方法二:打开设备管理器"></a>方法二:打开设备管理器</h3><p><img src="/2023/04/20/Samsung-Tab-s7/4.jpg" alt="4"></p>
 <p>打开网络适配器，点击更新，看有没有运行异常的或者版本老旧的，点击更新，部分外国网友也是通过这个办法弄好了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/5.webp"
-                      alt="5"
-                ></p>
+<p><img src="/2023/04/20/Samsung-Tab-s7/5.jpg" alt="5"></p>
 <p>如果还是不行，就用下面这个办法，</p>
 <h3 id="方法三-更改协议"><a href="#方法三-更改协议" class="headerlink" title="方法三:更改协议"></a>方法三:更改协议</h3><p>我们打开控制面板点击到网络中心</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/6.webp"
-                      alt="6"
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/7.webp"
-                      alt="7"
-                ></p>
+<p><img src="/2023/04/20/Samsung-Tab-s7/6.jpg" alt="6"><br><img src="/2023/04/20/Samsung-Tab-s7/7.jpg" alt="7"></p>
 <p>点击我们的WiFi网络，属性，配置</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/8.webp"
-                      alt="8"
-                ></p>
+<p><img src="/2023/04/20/Samsung-Tab-s7/8.jpg" alt="8"></p>
 <p>进来之后会有很多的选项，当然我们只用更改一两个。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/9.webp"
-                      alt="9"
-                ></p>
+<p><img src="/2023/04/20/Samsung-Tab-s7/9.jpg" alt="9"></p>
 <p>更改下方的无线模式，选项很多，可以一个一个试一下，但我还是建议你提前备份一下默认值，免得后面出现啥问题。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/10.webp"
-                      alt="10"
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/11.webp"
-                      alt="11"
-                ></p>
+<p><img src="/2023/04/20/Samsung-Tab-s7/10.jpg" alt="10"><br><img src="/2023/04/20/Samsung-Tab-s7/11.jpg" alt="11"></p>
 <p><strong>我的就是更改了802.11ac 就好了.</strong></p>
 <p>大家可以试一试。</p>
 <p>另外，都到这里了大家可以向下再划一下，划到首选频带这里，改成2.4G或者5G可以有效减少突然断网的风险（我不知道，网上说的）</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/12.webp"
-                      alt="12"
-                ></p>
+<p><img src="/2023/04/20/Samsung-Tab-s7/12.jpg" alt="12"></p>
 <p>接下来按照一般的步骤</p>
 <p>win+k 投放 点击链接，就能连接到tab了</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/13.webp"
-                      alt="13"
-                ></p>
+<p><img src="/2023/04/20/Samsung-Tab-s7/13.jpg" alt="13"></p>
 <p>另外说一下关于黑边的问题，其实黑边也不是什么大问题，我感觉就是分辨率和电脑的一样，但是硬件也就是屏幕的宽高比和电脑的不一样，所以就会有黑边，连接到tab之后，可以去下面进行分辨率的调整</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/14.webp"
-                      alt="14"
-                ></p>
+<p><img src="/2023/04/20/Samsung-Tab-s7/14.jpg" alt="14"></p>
 <p>我改成1920<em>1080平板就有黑边，我改成2560</em>1600就没有了，大家试一试吧，延迟的话，我就用来分屏看Youtube，也还能接受。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../_posts/Samsung-Tab-s7%E7%AC%AC%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/15.webp"
-                      alt="15"
-                ></p>
+<p><img src="/2023/04/20/Samsung-Tab-s7/15.jpg" alt="15"></p>
 <p>如果还是没有解决的话，大家可以去开头说的那两个帖子底下再找找看有没有其他的办法，</p>
 <p><strong>祝福大家每天都开心！！！！</strong></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="../images/head/Bottombye.gif"
-                      alt="head"
-                ></p>
+<p><img src="/2023/04/20/Samsung-Tab-s7/Bottombye.gif" alt="head"></p>
 ]]></content>
       <categories>
         <category>Solution</category>
